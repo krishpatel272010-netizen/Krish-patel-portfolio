@@ -1,0 +1,6 @@
+{
+  "name": "Krish Patel Portfolio",
+  "description": "A production-ready, fully responsive portfolio website for a Cinematographer and Video Editor with WebGL elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
